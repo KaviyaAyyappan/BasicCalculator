@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\BasicCalculatorExercise\BasicCalculatorExercise\bin\Debug\BasicCalculatorExercise.exe.config
+C:\Users\kaviya\source\repos\BasicCalculatorExercise\BasicCalculatorExercise\bin\Debug\BasicCalculatorExercise.exe
+C:\Users\kaviya\source\repos\BasicCalculatorExercise\BasicCalculatorExercise\bin\Debug\BasicCalculatorExercise.pdb
+C:\Users\kaviya\source\repos\BasicCalculatorExercise\BasicCalculatorExercise\obj\Debug\BasicCalculatorExercise.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\BasicCalculatorExercise\BasicCalculatorExercise\obj\Debug\BasicCalculatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\BasicCalculatorExercise\BasicCalculatorExercise\obj\Debug\BasicCalculatorExercise.exe
+C:\Users\kaviya\source\repos\BasicCalculatorExercise\BasicCalculatorExercise\obj\Debug\BasicCalculatorExercise.pdb
